@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-123
-456
-=======
-123
->>>>>>> parent of 01c39ea... add one line
